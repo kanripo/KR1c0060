@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩類釋
-#+DATE: 2015-09-23 09:37:11
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:06:55.633075
+#+PROPERTY: ID KR1c0060
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR1c0060_WYG_020-1a>¶
 欽定四庫全書¶
 　毛詩類釋卷二十¶
@@ -326,4 +328,3 @@
 　¶
 　¶
 　毛詩類釋卷二十¶
-
